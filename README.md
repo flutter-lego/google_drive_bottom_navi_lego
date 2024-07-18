@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/google_drive_bottom_navi_lego.svg)](https://pub.dartlang.org/packages/google_drive_bottom_navi_lego)
 
 # google_drive_bottom_navi_lego
-description here
+Google Drive Bottom Navigation Lego
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add google_drive_bottom_navi_lego
 ```
-
-## Usage
-Usage here
